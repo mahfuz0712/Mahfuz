@@ -16,7 +16,10 @@ This tool is made to ease the process of making mern stack apps or projects. if 
 ## Installation
 - To use this tool these are the softwares that you need to install first
 - VS Code ----- Download it from https://code.visualstudio.com/download
+- Git ----------Download it from https://git-scm.com/downloads
 - Node Js ----- Download it from https://nodejs.org/en
+- Mongo DB ---- Download it from https://www.mongodb.com/try/download/community
+- Mongo Shell --Download it from https://www.mongodb.com/try/download/shell
 - create-react-app tool  (you need to install it globally)
 - To do this just open your terminal and type
 ```bash 
@@ -34,16 +37,24 @@ This tool is made to ease the process of making mern stack apps or projects. if 
 
 ## Usage
 
-Go to your projects folder and open terminal there and in terminal type
+- To create a mern stack project or app \
+- Go to your projects folder and open terminal there and in terminal type
 
 ```bash
   Mahfuz create-mern-app myApp
-  cd myApp
-  code .
 ```
 `Replace myApp with the name of your app`
 
-That's it now in your vs code you can see both backend and frontend directories. in the backend directory there will be everything you need for your backend server like express, cors, dotenv, cache, nodemon, mongoose and so more. you can check your package.json file to see the packages that are preinstalled . if you need more according to your project then you can manually install those with npm. 
+That's it now in your vs code you can see both backend and frontend directories. in the backend directory there will be everything you need for your backend server like express, cors, dotenv, cache, nodemon, mongoose and so more. you can check your package.json file to see the packages that are preinstalled . if you need more according to your project then you can manually install those with npm.
+## Other Usage
+`To check the version type in your terminal`
+```bash
+    Mahfuz show version 
+``` 
+`To see the developer information type in your terminal`
+```bash
+    Mahfuz show developer_info
+```
 ## Preinstalled Packages For Backend
 - Express JS
 - Mongoose
@@ -60,7 +71,17 @@ This are the Packages that are Preinstalled with this tool. you dont need to ist
 ```bash
     npm i PackageName
 ```
+
+## Preinstalled Packages For Frontend
+- React
+- React Router
+- React Router DOM
 ## Engineer
 
 - [Mohammad Mahfuz Rahman](https://www.github.com/mahfuz0712)
 
+
+## Contact
+Email: mahfuzrahman0712@gmail.com \
+Facebook: https://fb.com/mahfuzrahman0712 \
+GitHub: https://github.com/mahfuz0712
