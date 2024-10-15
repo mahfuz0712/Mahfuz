@@ -65,7 +65,8 @@ That's it now in your vs code you can see both backend and frontend directories.
 - Multer
 - Body-Parser
 - Bcrypt
-- JsonWebToken
+- JsonWebToken 
+
 This are the Packages that are Preinstalled with this tool. you dont need to istall the Packages manuallly rather than if you need Packages that are not listed here you can install them with npm
 
 ```bash
