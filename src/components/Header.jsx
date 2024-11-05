@@ -8,7 +8,7 @@ const Header = () => {
   const toggleMenu = () => setMenuOpen(!menuOpen);
 
   return (
-    <header className="flex justify-between items-center p-4 bg-gray-900 fixed w-full z-10">
+    <header className="flex justify-between items-center p-4 bg-gray-900  mb-2">
       <div>
         <Link className="flex items-center" to="/">
           <h1 className="text-xl text-green-500 font-bold">Mahfuz</h1>

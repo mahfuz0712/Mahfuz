@@ -1,0 +1,72 @@
+/* App.css */
+.markdown-container {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+  }
+  
+  .markdown-container h1,
+  .markdown-container h2,
+  .markdown-container h3 {
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .markdown-container p {
+    margin-bottom: 10px;
+  }
+  
+  .markdown-container pre {
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 5px;
+    overflow: auto;
+  }
+  
+  .markdown-container code {
+    background-color: #f4f4f4;
+    padding: 2px 4px;
+    border-radius: 3px;
+  }
+  
+  .markdown-container ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+  /* Optional: Add custom styling for GitHub-like Markdown rendering */
+.prose h1 {
+    font-size: 2.25rem;
+    font-weight: bold;
+  }
+  
+  .prose h2 {
+    font-size: 1.75rem;
+    font-weight: bold;
+  }
+  
+  .prose h3 {
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .prose a {
+    color: #0366d6;
+    text-decoration: none;
+  }
+  
+  .prose a:hover {
+    text-decoration: underline;
+  }
+  
+  .prose code {
+    background-color: #f6f8fa;
+    padding: 0.2em 0.4em;
+    border-radius: 3px;
+  }
+  
+  .prose pre {
+    background-color: #f6f8fa;
+    padding: 16px;
+    overflow: auto;
+    border-radius: 6px;
+  }
+  
