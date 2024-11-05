@@ -216,9 +216,8 @@ const MarkdownRenderer = () => {
         <h2 className="text-2xl font-semibold mb-2">Support</h2>
         <p>If you have any queries or questions, feel free to contact:</p>
         <ul className="list-disc list-inside mb-4">
-          <li>Email: your_email@example.com</li>
-          <li>GitHub: your_github_profile</li>
-          <li>Twitter: your_twitter_handle</li>
+          <li>Email: mahfuzrahman0712@gmail.com</li>
+          <li>GitHub: https://github.com/mahfuz0712/mahfuz</li>
         </ul>
       </section>
 
