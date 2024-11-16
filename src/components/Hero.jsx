@@ -24,7 +24,7 @@ const Hero = () => {
       if (exeAsset) {
         window.location.href = exeAsset.browser_download_url;
       } else {
-        alert("No .exe file found for download.");
+        alert("Nothing found for download.");
       }
     } catch (error) {
       console.error("Error fetching the latest release:", error);
